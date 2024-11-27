@@ -7,11 +7,8 @@
   <img align="left" alt="Yurii's LinkedIN" width="24px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
 <a href="https://t.me/yura_murha">
-  <img align="left" alt="Yurii's Telegram" width="24px" src="https://www.svgrepo.com/show/452115/telegram.svg" />
+  <img align="left" alt="Yurii's Telegram" width="24px" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" />
 </a>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yurii-murha-b06484244" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sk.linkedin.com/in/yurii-murha-b06484244?trk=profile-badge">Yurii Murha</a></div>
 
 My name is Yurii Murha. I am currently working at MetaApp s.r.o as a Software Developer. 
 I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. 
@@ -19,7 +16,6 @@ I am a tech enthusiast. Always open to collaborating on projects and innovative/
 Please don't hesitate to reach out to me.
 
 ## Tech Stack
-#512BD4
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/YuriiMurha?tab=repositories)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/YuriiMurha?tab=repositories)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/YuriiMurha?tab=repositories)
