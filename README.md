@@ -1,6 +1,5 @@
 # Hi there 👋
 
-<br>
 <a href="https://discordapp.com/users/609462098304696321/">
   <img align="left" alt="Yurii's Discord" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
@@ -10,6 +9,8 @@
 <a href="https://t.me/yura_murha">
   <img align="left" alt="Yurii's Telegram" width="24px" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=YuriiMurha&theme=github_dark )
 
 My name is Yurii Murha. I am currently working at MetaApp s.r.o as a Software Developer. 
 I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. 
@@ -45,3 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=69917252)
