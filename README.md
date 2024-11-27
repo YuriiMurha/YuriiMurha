@@ -1,5 +1,6 @@
 # Hi there 👋
 
+<br>
 <a href="https://discordapp.com/users/609462098304696321/">
   <img align="left" alt="Yurii's Discord" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
