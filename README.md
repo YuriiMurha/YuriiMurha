@@ -1,6 +1,41 @@
-## Hi there 👋
-![Yurii's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiMurha&show_icons=true&theme=radical)
+# Hi there 👋
 
+<a href="https://discordapp.com/users/609462098304696321/">
+  <img align="left" alt="Yurii's Discord" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yurii-murha/">
+  <img align="left" alt="Yurii's LinkedIN" width="24px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+</a>
+<a href="https://t.me/yura_murha">
+  <img align="left" alt="Yurii's Telegram" width="24px" src="https://www.svgrepo.com/show/452115/telegram.svg" />
+</a>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yurii-murha-b06484244" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sk.linkedin.com/in/yurii-murha-b06484244?trk=profile-badge">Yurii Murha</a></div>
+
+My name is Yurii Murha. I am currently working at MetaApp s.r.o as a Software Developer. 
+I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. 
+
+Please don't hesitate to reach out to me.
+
+## Tech Stack
+#512BD4
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/YuriiMurha?tab=repositories)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/YuriiMurha?tab=repositories)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/YuriiMurha?tab=repositories)
+[![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)](https://github.com/YuriiMurha?tab=repositories)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/YuriiMurha?tab=repositories)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/YuriiMurha?tab=repositories)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/YuriiMurha?tab=repositories)
+  
+## Stats
+
+<a href="https://github.com/YuriiMurha?tab=repositories">
+  <img width=440 src="https://github-readme-stats.vercel.app/api?username=YuriiMurha&hide_border=true&show_icons=true&count_private=true&theme=radical" />
+</a>
+<a href="https://github.com/YuriiMurha?tab=repositories">
+  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiMurha&hide_border=true&layout=compact&count_private=true&theme=radical" />
+</a>
 <!--
 Here are some ideas to get you started:
 
