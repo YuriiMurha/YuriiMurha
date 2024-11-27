@@ -1,5 +1,8 @@
 ## Hi there 👋
 ![Yurii's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiMurha&show_icons=true&theme=radical)
+
+![null.checked GitHub stats](https://github-readme-stats.vercel.app/api?username=null-checked&show_icons=true&theme=radical)
+
 <!--
 Here are some ideas to get you started:
 
