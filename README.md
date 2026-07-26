@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=YuriiMurha&theme=github_dark )
 
-My name is Yurii Murha. I am currently working at MetaApp s.r.o as a Software Developer. 
+My name is Yurii Murha. I am currently working at GymBeam as a Data Automation Engineer. 
 I am a tech enthusiast. Always open to collaborating on projects and innovative ideas. 
 
 Please don't hesitate to reach out to me.
