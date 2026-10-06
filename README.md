@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=YuriiMurha&theme=github_dark )
 
-My name is Yurii Murha. I am currently working at GymBeam as a Data Automation Engineer. 
+My name is Yurii Murha. I am currently working at GymBeam as an Autonomous AI Systems Engineer. 
 I am a tech enthusiast. Always open to collaborating on projects and innovative ideas. 
 
 Please don't hesitate to reach out to me.
@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 ![](https://hit.yhype.me/github/profile?user_id=69917252)
